@@ -3,7 +3,7 @@
 Open Source model running locally via Ollama
 
 ***
-The project demonstrates two approaches to interact with the Ollama API for content extraction and summarization. First, the requests API is used to call the Ollama URL and process data. Then, the same task is accomplished using the Ollama framework, showing that both methods yield the same results, but with different implementation strategies. This highlights the versatility of Ollama in achieving content extraction and summarization through different approaches.
+The project demonstrates two approaches to interact with the **Ollama** API for content extraction and summarization. First, the **requests API** is used to call the Ollama URL and process data. Then, the same task is accomplished using the **Ollama framework**, showing that both methods yield the same results, but with different implementation strategies. This highlights the versatility of Ollama in achieving content extraction and summarization through different approaches.
 
 ![Coach](https://github.com/MihranD/Ollama-GenAI/blob/main/images/coach.png)
 
@@ -25,11 +25,11 @@ The project demonstrates two approaches to interact with the Ollama API for cont
 
 ### Business Problem
 
-Businesses struggle to efficiently extract and summarize valuable insights from vast amounts of unstructured web data, and this project provides an automated solution using the Ollama API and framework.
+Businesses struggle to efficiently extract and summarize valuable insights from vast amounts of unstructured web data, and this project provides an automated solution using the **Ollama API** and **framework**.
 
 ### Problem Definition
 
-Extracting and summarizing relevant information from large volumes of unstructured web content is a time-consuming and manual process, leading to inefficiencies in businesses that need quick, actionable insights. This project aims to automate the process using the Ollama API and framework to generate accurate and concise summaries.
+Extracting and summarizing relevant information from large volumes of unstructured web content is a time-consuming and manual process, leading to inefficiencies in businesses that need quick, actionable insights. This project aims to automate the process using the **Ollama API** and **framework** to generate accurate and concise summaries.
 
 ### Model Output Example
 
@@ -41,7 +41,7 @@ Extracting and summarizing relevant information from large volumes of unstructur
 
 ## Conclusion
 
-Both the API approach and the local Ollama setup provide the same functionality in terms of interacting with Ollama models. However, using the Ollama Python package, rather than making direct HTTP calls, offers a more elegant and streamlined solution. The Python package simplifies the process by abstracting away the complexity of handling raw HTTP requests, making the code cleaner, more readable, and easier to maintain.
+Both the API approach and the local Ollama setup provide the same functionality in terms of interacting with Ollama models. However, using the **Ollama Python package**, rather than making direct HTTP calls, offers a more elegant and streamlined solution. The Python package simplifies the process by abstracting away the complexity of handling raw HTTP requests, making the code cleaner, more readable, and easier to maintain.
 
 ## How to run the app
 

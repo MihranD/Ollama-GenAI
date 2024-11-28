@@ -5,7 +5,7 @@ Open Source model running locally via Ollama
 ***
 The project demonstrates two approaches to interact with the Ollama API for content extraction and summarization. First, the requests API is used to call the Ollama URL and process data. Then, the same task is accomplished using the Ollama framework, showing that both methods yield the same results, but with different implementation strategies. This highlights the versatility of Ollama in achieving content extraction and summarization through different approaches.
 
-![Coach](https://github.com/MihranD/OpenAI-LLM/blob/main/images/coach.png)
+![Coach](https://github.com/MihranD/Ollama-GenAI/blob/main/images/coach.png)
 
 ## Project Organization
 ----------------------------------------------------------------------------------------------
@@ -37,7 +37,7 @@ Extracting and summarizing relevant information from large volumes of unstructur
     {"role": "user", "content": "Describe key points of the coach in football macth strategy"}
 ]`
 
-![Ollama result](https://github.com/MihranD/OpenAI-LLM/blob/main/images/ollama-result.png)
+![Ollama result](https://github.com/MihranD/Ollama-GenAI/blob/main/images/ollama-result.png)
 
 ## Conclusion
 
